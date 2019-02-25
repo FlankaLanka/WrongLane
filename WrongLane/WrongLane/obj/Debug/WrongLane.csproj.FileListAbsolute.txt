@@ -1,0 +1,10 @@
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\bin\Debug\WrongLane.exe.config
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\bin\Debug\WrongLane.exe
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\bin\Debug\WrongLane.pdb
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.csprojAssemblyReference.cache
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.Form1.resources
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.Properties.Resources.resources
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.csproj.GenerateResource.cache
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.csproj.CoreCompileInputs.cache
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.exe
+C:\Users\Frank Yang\Desktop\EC447\WrongLane\WrongLane\obj\Debug\WrongLane.pdb
